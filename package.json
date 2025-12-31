@@ -34,6 +34,6 @@
     "extends": "rem/prettier"
   },
   "peerDependencies": {
-    "coffeescript": "git+https://git@github.com/KitchenMate/coffeescript.git"
+    "coffeescript": "git+https://git@github.com/micromart-tech/coffeescript.git"
   }
 }
